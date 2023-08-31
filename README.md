@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MemonML (Mudasar Latif Memon, Ph.D.) #Researcher #Convergence #Technology #AI #MachineLearning #DeepLearning #Healthcare #5G #Wireless #Network 
 - 👀 I’m interested in Applied Artificial Intelligence for 5G Wireless Networks and Healthcare
-- 🌱 I’m currently learning Data Science for technology convergence
+- 🌱 I’m a Data Scientist working for technology convergence
 - 💞️ I’m looking to collaborate on Technology Convergence Projects
 - 📫 How to reach me : memon@g.skku.edu or visit: https://www.mlmemon.com/
 
