@@ -107,7 +107,7 @@ Let's connect and innovate together!
 ![Project Management](https://img.shields.io/badge/Project%20Management-Expert-lightgrey)
 ![Conflict Resolution](https://img.shields.io/badge/Conflict%20Resolution-Expert-yellow)
 
-**Transferable Skills to bridge Industry-Academia:**
+**Transferable Skills:**
 ![Technical Literacy](https://img.shields.io/badge/Technical%20Literacy-Expert-purple)
 ![Information Processing](https://img.shields.io/badge/Information%20Processing-Expert-red)
 ![Team Management](https://img.shields.io/badge/Team%20Management-Expert-brightgreen)
