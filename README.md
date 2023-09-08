@@ -41,7 +41,7 @@ Let's connect and innovate together!
 ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-Expert-purple)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Expert-orange)
 
-**Research Skillset: Artificial Intelligence; Emerging Wireless Networks; Healthcare**
+**Research Skillset:**
 ![Applied AI Research](https://img.shields.io/badge/Applied%20AI%20Research-Expert-blue)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Expert-yellow)
 ![AI Applications in Healthcare](https://img.shields.io/badge/AI%20Applications%20in%20Healthcare-Expert-orange)
@@ -76,6 +76,10 @@ Let's connect and innovate together!
 ![Feature Fusion](https://img.shields.io/badge/Feature%20Fusion-Expert-purple)
 ![Single Image Super-Resolution](https://img.shields.io/badge/Single%20Image%20Super%E2%80%90Resolution-Expert-orange)
 
+![Research Ethics](https://img.shields.io/badge/Research%20Ethics-Proficient-blue)
+![Publication](https://img.shields.io/badge/Publication-Expert-orange)
+![Reviewing](https://img.shields.io/badge/Reviewing-Expert-lightgrey)
+
 **Programming Skills:**
 ![Python Programming](https://img.shields.io/badge/Programming-Expert-purple)
 ![Huggingface.co](https://img.shields.io/badge/Huggingface.co-Expert-lightgrey)
@@ -85,11 +89,6 @@ Let's connect and innovate together!
 ![Python/Colab/VSCode](https://img.shields.io/badge/Python/Colab/VSCode-Expert-purple)
 ![Edge Impulse](https://img.shields.io/badge/Edge%20Impulse-Expert-brightgreen)
 ![LATEX/Overleaf](https://img.shields.io/badge/LATEX/Overleaf-Expert-blue)
-
-**Research Skills:**
-![Research Ethics](https://img.shields.io/badge/Research%20Ethics-Proficient-blue)
-![Publication](https://img.shields.io/badge/Publication-Expert-orange)
-![Reviewing](https://img.shields.io/badge/Reviewing-Expert-lightgrey)
 
 **Soft Skills:**
 ![Focused](https://img.shields.io/badge/Focused-Expert-yellow)
