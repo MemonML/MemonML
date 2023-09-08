@@ -15,11 +15,9 @@ Let's connect and innovate together!
 - 👀 I’m interested in Applied Artificial Intelligence and Data Science tools for solving inter-disciplinary problems
 - 🌱 I’m a Data Scientist working for technology convergence
 - 💞️ I’m looking to collaborate on Technology Convergence Projects
-- 📫 How to reach me : [Linkedin: Mudasar Latif Memon](https://www.linkedin.com/in/mudasar-latif-memon-ph-d-18957b12/), [Email:memon@g.skku.edu](memon@g.skku.edu), [Website: www.mlmemon.com](https://www.mlmemon.com/)
+- 📫 How to reach me : [Linkedin: Mudasar Latif Memon](https://www.linkedin.com/in/mudasar-latif-memon-ph-d-18957b12/), [Email: memon@g.skku.edu](memon@g.skku.edu), [Website: www.mlmemon.com](https://www.mlmemon.com/)
 
 Certainly! Here are the markdown codes for the skill badges for your GitHub readme file:
-
-Certainly! Here are the links for each skill set to be pasted in your markdown file:
 
 **Technical Skills:**
 
@@ -44,16 +42,16 @@ Certainly! Here are the links for each skill set to be pasted in your markdown f
 
 **Educational Skills:**
 
-1. Teaching: [![Teaching](https://img.shields.io/badge/Teaching-Expert-red)](https://www.example.com)
-2. Ph.D. Supervision: [![Ph.D. Supervision](https://img.shields.io/badge/Ph.D.%20Supervision-Proficient-yellow)](https://www.example.com)
-3. Training and Certification: [![Training and Certification](https://img.shields.io/badge/Training%20and%20Certification-Expert-purple)](https://www.example.com)
+[![Teaching](https://img.shields.io/badge/Teaching-Expert-red)]([https://www.example.com](https://www.mlmemon.com/4-research))
+[![Ph.D. Supervision](https://img.shields.io/badge/Ph.D.%20Supervision-Proficient-yellow)](https://www.mlmemon.com/7-volunteer-services)
+[![Training and Certification](https://img.shields.io/badge/Training%20and%20Certification-Expert-purple)]
 
 **Industrial Experience:**
 
-1. Project Management: [![Project Management](https://img.shields.io/badge/Project%20Management-Expert-brightgreen)](https://www.example.com)
-2. Optical Fiber Network Solutions: [![Optical Fiber Network Solutions](https://img.shields.io/badge/Optical%20Fiber%20Network%20Solutions-Proficient-blue)](https://www.example.com)
-3. SAP ERP: [![SAP ERP](https://img.shields.io/badge/SAP%20ERP-Expert-orange)](https://www.example.com)
-4. Feasibility Analysis: [![Feasibility Analysis](https://img.shields.io/badge/Feasibility%20Analysis-Proficient-red)](https://www.example.com)
+[![Project Management](https://img.shields.io/badge/Project%20Management-Expert-brightgreen)](https://www.example.com)
+[![Optical Fiber Network Solutions](https://img.shields.io/badge/Optical%20Fiber%20Network%20Solutions-Proficient-blue)](https://www.example.com)
+[![SAP ERP](https://img.shields.io/badge/SAP%20ERP-Expert-orange)](https://www.example.com)
+[![Feasibility Analysis](https://img.shields.io/badge/Feasibility%20Analysis-Proficient-red)](https://www.example.com)
 
 Please replace "https://www.example.com" with the relevant links to your profiles or resources for each skill set in your markdown file.
 **Technical Skills:**
