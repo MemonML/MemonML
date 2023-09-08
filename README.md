@@ -18,7 +18,7 @@ Let's connect and innovate together!
 - 📫 How to reach me : [Linkedin: Mudasar Latif Memon](https://www.linkedin.com/in/mudasar-latif-memon-ph-d-18957b12/), [Email: memon@g.skku.edu](memon@g.skku.edu), [Website: www.mlmemon.com](https://www.mlmemon.com/)
 
 
-**Data Science Understanding:**
+**Data Science Skillset:**
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Expert-red)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Expert-brightgreen)
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-Expert-blue)
@@ -41,12 +41,9 @@ Let's connect and innovate together!
 ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-Expert-purple)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Expert-orange)
 
-
-
-**Research Areas:**
+**Research Skillset: Artificial Intelligence; Emerging Wireless Networks; Healthcare**
 ![Applied AI Research](https://img.shields.io/badge/Applied%20AI%20Research-Expert-blue)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Expert-yellow)
-
 ![AI Applications in Healthcare](https://img.shields.io/badge/AI%20Applications%20in%20Healthcare-Expert-orange)
 ![Preventive Healthcare](https://img.shields.io/badge/Preventive%20Healthcare-Expert-blue)
 ![Healthcare Informatics](https://img.shields.io/badge/Healthcare%20Informatics-Expert-red)
@@ -55,19 +52,6 @@ Let's connect and innovate together!
 ![Personalized Non-Invasive Blood Glucose Monitoring](https://img.shields.io/badge/Personalized%20Non%E2%80%90Invasive%20Blood%20Glucose%20Monitoring-Expert-blue)
 ![Human Activity Recognition](https://img.shields.io/badge/Human%20Activity%20Recognition-Expert-blue)
 ![Automated Activity Recognition](https://img.shields.io/badge/Automated%20Activity%20Recognition-Expert-red)
-
-![MRI System Testing](https://img.shields.io/badge/MRI%20System%20Testing-Expert-brightgreen)
-![Magnetic Resonance Imaging (MRI)](https://img.shields.io/badge/Magnetic%20Resonance%20Imaging%20(MRI)-Expert-red)
-![Time-of-Flight (ToF) Imaging](https://img.shields.io/badge/Time%E2%80%90of%E2%80%90Flight%20(ToF)%20Imaging-Expert-brightgreen)
-![Reliability Growth Testing](https://img.shields.io/badge/Reliability%20Growth%20Testing-Expert-brightgreen)
-
-
-![Femtocell Technology](https://img.shields.io/badge/Femtocell%20Technology-Expert-orange)
-![Satellite Imagery Analysis](https://img.shields.io/badge/Satellite%20Imagery%20Analysis-Expert-lightgrey)
-![Finger-Vein Image Enhancement](https://img.shields.io/badge/Finger%E2%80%90Vein%20Image%20Enhancement-Expert-yellow)
-![Feature Fusion](https://img.shields.io/badge/Feature%20Fusion-Expert-purple)
-![Single Image Super-Resolution](https://img.shields.io/badge/Single%20Image%20Super%E2%80%90Resolution-Expert-orange)
-
 
 ![Wireless Network Expertise](https://img.shields.io/badge/Wireless%20Network%20Expertise-Proficient-orange)
 ![5G Networks](https://img.shields.io/badge/5G%20Networks-Expert-blue)
@@ -80,7 +64,17 @@ Let's connect and innovate together!
 ![Battery-Free Communication](https://img.shields.io/badge/Battery%E2%80%90Free%20Communication-Expert-lightgrey)
 ![Signal Processing](https://img.shields.io/badge/Signal%20Processing-Expert-red)
 ![Wireless Sensor Networks](https://img.shields.io/badge/Wireless%20Sensor%20Networks-Expert-yellow)
+![Femtocell Technology](https://img.shields.io/badge/Femtocell%20Technology-Expert-orange)
 
+![MRI System Testing](https://img.shields.io/badge/MRI%20System%20Testing-Expert-brightgreen)
+![Magnetic Resonance Imaging (MRI)](https://img.shields.io/badge/Magnetic%20Resonance%20Imaging%20(MRI)-Expert-red)
+![Time-of-Flight (ToF) Imaging](https://img.shields.io/badge/Time%E2%80%90of%E2%80%90Flight%20(ToF)%20Imaging-Expert-brightgreen)
+![Reliability Growth Testing](https://img.shields.io/badge/Reliability%20Growth%20Testing-Expert-brightgreen)
+
+![Satellite Imagery Analysis](https://img.shields.io/badge/Satellite%20Imagery%20Analysis-Expert-lightgrey)
+![Finger-Vein Image Enhancement](https://img.shields.io/badge/Finger%E2%80%90Vein%20Image%20Enhancement-Expert-yellow)
+![Feature Fusion](https://img.shields.io/badge/Feature%20Fusion-Expert-purple)
+![Single Image Super-Resolution](https://img.shields.io/badge/Single%20Image%20Super%E2%80%90Resolution-Expert-orange)
 
 **Programming Skills:**
 ![Python Programming](https://img.shields.io/badge/Programming-Expert-purple)
@@ -91,8 +85,6 @@ Let's connect and innovate together!
 ![Python/Colab/VSCode](https://img.shields.io/badge/Python/Colab/VSCode-Expert-purple)
 ![Edge Impulse](https://img.shields.io/badge/Edge%20Impulse-Expert-brightgreen)
 ![LATEX/Overleaf](https://img.shields.io/badge/LATEX/Overleaf-Expert-blue)
-
-
 
 **Research Skills:**
 ![Research Ethics](https://img.shields.io/badge/Research%20Ethics-Proficient-blue)
@@ -129,9 +121,7 @@ Let's connect and innovate together!
 ![Team Building](https://img.shields.io/badge/Team%20Building-Expert-brightgreen)
 ![Conflict Resolution](https://img.shields.io/badge/Conflict%20Resolution-Expert-blue)
 ![Project Management](https://img.shields.io/badge/Project%20Management-Expert-orange)
-
 ![Feasibility Analysis](https://img.shields.io/badge/Feasibility%20Analysis-Expert-purple)
-
 
 
 
