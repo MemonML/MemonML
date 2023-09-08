@@ -1,24 +1,19 @@
 ### Hi, I'm 🚀 Engr. Mudasar Latif Memon, Ph.D. - AI Researcher & Innovator 👋
 
-I'm a seasoned AI researcher and electrical engineer with 14+ years of industry and academia experience. My expertise spans AI, 5G, Computer Vision, NLP, and CNNs.
+I'm a seasoned AI researcher, Data Scientist, and electrical engineer with 14+ years of industry and academia experience. - 👀 Interested in Applied Artificial Intelligence and Data Science tools for solving inter-disciplinary problems
 
-🌐 Transforming Ideas into Reality | 📈 Expert in Applied AI Research & Wireless Networks
-📊 Passionate about Energy-Efficient 5G Networks & Battery-Free Communication
-💡 Deep Learning Enthusiast | 🎓 Dedicated Educator | 🤝 Collaborative Leader
-📚 Published Author | 📡 IoT & Healthcare Innovator | 🌟 Award-Winning Researcher
-🔗 [Explore My Publications and independent citations](https://scholar.google.co.kr/citations?user=Bj5wY1QAAAAJ&hl=en)
-🌍 Collaborated internationally with Samsung Healthcare and Mediatek Inc., USA.
-🏆 Recognized with a Ph.D. from a top 100 QS-ranked university.
+- 🌐 Transforming Ideas into Reality | 📈 Expert in Applied AI Research & Wireless Networks
+- 📊 Passionate about Energy-Efficient 5G Networks and battery-free Communication
+- 💡 Deep Learning Enthusiast | 🎓 Dedicated Educator | 🤝 Collaborative Leader
+- 📚 Published Author | 📡 IoT & Healthcare Innovator | 🌟 Award-Winning Researcher
+- 🔗 [Explore My Publications and independent citations](https://scholar.google.co.kr/citations?user=Bj5wY1QAAAAJ&hl=en)
+- 🌍 Collaborated internationally with Samsung Healthcare and Mediatek Inc., USA.
+- 🏆 Recognized with a Ph.D. from a top 100 QS-ranked university.
 
-🔧 Proficient in MATLAB, Python, Git, and more.
-🧠 Strong analytical and problem-solving skills.
-📚 Passionate about knowledge sharing and continuous learning.
+- 🔧 Proficient in MATLAB, Python, Git, and more.
+- 🧠 Strong analytical and problem-solving skills.
+- 📚 Passionate about knowledge sharing and continuous learning.
 
-Let's connect and innovate together!
- 
-- 👀 I’m interested in Applied Artificial Intelligence and Data Science tools for solving inter-disciplinary problems
-- 🌱 I’m a Data Scientist working for technology convergence
-- 💞️ I’m looking to collaborate on Technology Convergence Projects
 - 📫 How to reach me : [Linkedin: Mudasar Latif Memon](https://www.linkedin.com/in/mudasar-latif-memon-ph-d-18957b12/), [Email: memon@g.skku.edu](memon@g.skku.edu), [Website: www.mlmemon.com](https://www.mlmemon.com/)
 
 
