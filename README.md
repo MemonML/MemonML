@@ -2,9 +2,14 @@
 
 I'm a seasoned AI researcher and electrical engineer with 14+ years of industry and academia experience. My expertise spans AI, 5G, Computer Vision, NLP, and CNNs.
 
+🚀 Engr. Mudasar Latif Memon, Ph.D. - AI Researcher & Innovator 🤖
+🌐 Transforming Ideas into Reality | 📈 Expert in Applied AI Research & Wireless Networks
+📊 Passionate about Energy-Efficient 5G Networks & Battery-Free Communication
+💡 Deep Learning Enthusiast | 🎓 Dedicated Educator | 🤝 Collaborative Leader
+📚 Published Author | 📡 IoT & Healthcare Innovator | 🌟 Award-Winning Researcher
+🔗 [Explore My Publications and independent citations](https://scholar.google.co.kr/citations?user=Bj5wY1QAAAAJ&hl=en)
 🌍 Collaborated internationally with Samsung Healthcare and Mediatek Inc., USA.
 🏆 Recognized with a Ph.D. from a top 100 QS-ranked university.
-💼 Led technical education programs and published 14 research journal articles with more than 150 citations on my [Google Scholar: Mudasar Latif Memon](https://scholar.google.co.kr/citations?user=Bj5wY1QAAAAJ&hl=en)
 
 🔧 Proficient in MATLAB, Python, Git, and more.
 🧠 Strong analytical and problem-solving skills.
