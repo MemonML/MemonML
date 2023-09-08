@@ -19,6 +19,43 @@ Let's connect and innovate together!
 
 Certainly! Here are the markdown codes for the skill badges for your GitHub readme file:
 
+Certainly! Here are the links for each skill set to be pasted in your markdown file:
+
+**Technical Skills:**
+
+[![Applied AI Research](https://img.shields.io/badge/Applied%20AI%20Research-Expert-brightgreen)](https://www.example.com)
+[![Wireless Network Expertise](https://img.shields.io/badge/Wireless%20Network%20Expertise-Proficient-blue)](https://www.example.com)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-orange)](https://www.example.com)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Proficient-red)](https://www.example.com)
+[![Data Science](https://img.shields.io/badge/Data%20Science-Expert-yellow)](https://www.example.com)
+[![Software Development](https://img.shields.io/badge/Software%20Development-Proficient-purple)](https://www.example.com)
+
+**Soft Skills:**
+
+[![Collaboration](https://img.shields.io/badge/Collaboration-Expert-brightgreen)](https://www.example.com)
+[![Leadership](https://img.shields.io/badge/Leadership-Proficient-blue)](https://www.example.com)
+[![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-Expert-orange)](https://www.example.com)
+[![Communication](https://img.shields.io/badge/Communication-Expert-red)](https://www.example.com)
+[![Problem-Solving](https://img.shields.io/badge/Problem%20Solving-Expert-yellow)](https://www.example.com)
+[![Project Management](https://img.shields.io/badge/Project%20Management-Proficient-purple)](https://www.example.com)
+[![Adaptability](https://img.shields.io/badge/Adaptability-Expert-brightgreen)](https://www.example.com)
+[![Research Ethics](https://img.shields.io/badge/Research%20Ethics-Proficient-blue)](https://www.example.com)
+[![Learning and Adaptability](https://img.shields.io/badge/Learning%20and%20Adaptability-Expert-orange)](https://www.example.com)
+
+**Educational Skills:**
+
+1. Teaching: [![Teaching](https://img.shields.io/badge/Teaching-Expert-red)](https://www.example.com)
+2. Ph.D. Supervision: [![Ph.D. Supervision](https://img.shields.io/badge/Ph.D.%20Supervision-Proficient-yellow)](https://www.example.com)
+3. Training and Certification: [![Training and Certification](https://img.shields.io/badge/Training%20and%20Certification-Expert-purple)](https://www.example.com)
+
+**Industrial Experience:**
+
+1. Project Management: [![Project Management](https://img.shields.io/badge/Project%20Management-Expert-brightgreen)](https://www.example.com)
+2. Optical Fiber Network Solutions: [![Optical Fiber Network Solutions](https://img.shields.io/badge/Optical%20Fiber%20Network%20Solutions-Proficient-blue)](https://www.example.com)
+3. SAP ERP: [![SAP ERP](https://img.shields.io/badge/SAP%20ERP-Expert-orange)](https://www.example.com)
+4. Feasibility Analysis: [![Feasibility Analysis](https://img.shields.io/badge/Feasibility%20Analysis-Proficient-red)](https://www.example.com)
+
+Please replace "https://www.example.com" with the relevant links to your profiles or resources for each skill set in your markdown file.
 **Technical Skills:**
 ![Machine Learning](https://img.shields.io/badge/Skill-Machine%20Learning-brightgreen)
 ![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-blue)
