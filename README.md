@@ -1,4 +1,4 @@
-### Hi, I'm 🚀 Engr. Mudasar Latif Memon, Ph.D. - AI Researcher & Innovator 👋
+### Hi, I'm 🚀 Engr. Mudasar Latif Memon, Ph.D. - AI Solutions Architect and Researcher 👋
 
 I'm a seasoned AI researcher, Data Scientist, and electrical engineer with 14+ years of industry and academia experience. - 👀 Interested in Applied Artificial Intelligence and Data Science tools for solving inter-disciplinary problems
 
